@@ -9,4 +9,8 @@
 - 面接前まで Linux, AWS 基礎体験
 
 ### 学習記録
-- 7月 2日: GitHubアドレス作成 及び レポジトリー作成
+7月 2日:
+- GitHubアドレス作成 及び レポジトリー作成
+- JupyterLite Linux Terminalを使用しLinuxのCLI環境体験
+- mkdir, cd, touch, pwd, lsのコマンドを使用しどのように反応するか確認
+- 
