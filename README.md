@@ -11,6 +11,9 @@
 ### 学習記録
 7月 2日:
 - GitHubアドレス作成 及び レポジトリー作成
-- JupyterLite Linux Terminalを使用しLinuxのCLI環境体験
-- mkdir, cd, touch, pwd, lsのコマンドを使用しどのように反応するか確認
-- 
+- JupyterLite Linux Terminalを使用しLinuxのCLI (Command Line Interface)	環境体験
+- mkdir, cd, touch, pwd, lsのコマンドを使用しどのように反応するか確認 
+
+7月
+- cdで移動する場合、上位フォルダに移動する時は’..’のみ入力することがわかった。（上位のフォルダ名ではない）
+- 複数のフォルダとTXTファイルを生成し、ls -Rで
